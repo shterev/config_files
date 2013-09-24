@@ -17,6 +17,9 @@
 [push]
         default = tracking
 
+[alias]
+	lol = log --oneline --graph --decorate -20
+
 [color]
 	ui = auto
 
