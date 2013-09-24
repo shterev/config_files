@@ -1,0 +1,7 @@
+[
+  { "keys": ["super+ctrl+right"], "command": "indent" },
+  { "keys": ["super+ctrl+left"],  "command": "unindent" },
+  { "keys": ["super+ctrl+l"],     "command": "duplicate_line" },
+  { "keys": ["super+ctrl+j"],     "command": "join_lines" }, 
+  { "keys": ["super+ctrl+k"],     "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} }
+]
