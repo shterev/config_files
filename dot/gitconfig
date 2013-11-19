@@ -4,7 +4,7 @@
 
 [core]
 	whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
-	excludesfile = /Users/rstankov/.gitignore
+	excludesfile = /Users/shterev/.gitignore
 [push]
 	default = current
 
@@ -19,6 +19,11 @@
 
 [alias]
 	lol = log --oneline --graph --decorate -20
+	st = status
+	br = branch
+	co = checkout
+	ci = commit
+	gst = git status
 
 [color]
 	ui = auto
